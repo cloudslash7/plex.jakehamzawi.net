@@ -1,0 +1,882 @@
+[
+    {
+        "title": "The Office (US)",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Princess Mononoke",
+        "language": "Jap",
+        "type": "Movie",
+        "subs": "Eng",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Kiki's Delivery Service",
+        "language": "Eng/Jap",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Spirited Away",
+        "language": "Eng/Jap",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "language": "Eng/Jap",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Whisper of the Heart",
+        "language": "Eng/Jap",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Lord of the Rings: Fellowship of the Ring (Extended)",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers (Extended)",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Lord of the Rings: Return of the King (Extended)",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Friends",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Daniel Tiger",
+        "type": "TV",
+        "status": "ON DISK",
+        "notes": "Seasons 1-4 only"
+    },
+    {
+        "title": "Elf",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "National Lampoon Christmas Vacation",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Scrubs",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "language": "Eng/Jap",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Dragon Ball Z Kai",
+        "language": "Eng",
+        "type": "TV",
+        "status": "ON DISK",
+        "notes": "Rescored till Frieza Saga"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Thirtysomething",
+        "type": "TV",
+        "status": "IN PROGRESS",
+        "notes": "Season 3 only"
+    },
+    {
+        "title": "The Holiday",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Willy Wonka and the Chocolate Factory",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Ocean's Eleven",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Sense and Sensibility",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Parks and Recreation",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Matrix",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Megamind",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Sound of Music",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Home Alone",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Home Alone 2",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Seinfeld",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Star Wars Original Trilogy - Despecialized Versions",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Groundhog Day",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Coraline",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "A Christmas Story",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Shining",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Get Out",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Whiplash",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The King's Speech",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Million Dollar Baby",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Pulp Fiction",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Forrest Gump",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Terminal",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Catch Me If You Can",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Sully",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Sleepless in Seattle",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Apollo 13",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "That Thing You Do!",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Extremely Loud and Incredibly Close",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "You've Got Mail",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Burbs",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Road to Perdition",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Ace Ventura",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Bruce Almighty",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Click",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Billy Madison",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Liar Liar",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Futurama",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Rick and Morty",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Kung Fu Panda",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Shrek",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Shrek 2",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Indiana Jones",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Indiana Jones 2",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Indiana Jones 3",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "30 Rock",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Psych",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Gilmore Girls",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Prince of Egypt",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Road to El Dorado",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Isle of Dogs",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Your Name",
+        "language": "Eng/Jap",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Ouran High School Host Club",
+        "language": "Jap",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Ace Ventura 2",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Battlestar Galactica",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Howard's End",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "What Lies Beneath",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Regarding Henry",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Fugitive",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Fifth Element",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Across the Universe",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "500 Days of Summer",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Over the Garden Wall",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Holes",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Dead Poets' Society",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Fantastic Mr. Fox",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Fiddler on the Roof",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Death of a Salesman",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Good Will Hunting",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Good Morning, Vietnam",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Song of the Sea",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Other Guys",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Nacho Libre",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Napoleon Dynamite",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Iron Giant",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Porco Rosso",
+        "language": "Eng/Jap",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Spider-Man into the Spideyverse",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Lupin the Third: The Castle of Cegliostro",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Breakfast Club",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Sixteen Candles",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Scott Pilgrim vs the World",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "An Affair to Remember",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Princess Bride",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Brothers and Sisters",
+        "type": "TV",
+        "status": "ON DISK",
+        "notes": "Low quality; couldn't find better rips"
+    },
+    {
+        "title": "Breakfast at Tiffany's",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "She's the Man",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Devil Wears Prada",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Mean Girls",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Little Women",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "12 Angry Men",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Truman Show",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Mad Max",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Back to the Future",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Back to the Future II",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Bill and Ted's Excellent Adventure",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Weekend at Bernie's",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Graduate",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Some Like It Hot",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Cloudy with a Chance of Meatballs",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Ferris Bueller's Day Off",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Love Actually",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Ernest and Celestine",
+        "language": "Fr/Rus",
+        "type": "Movie",
+        "subs": "Eng/Fr/Rus",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Alien",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Aliens",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Akira",
+        "language": "Jap",
+        "type": "Movie",
+        "subs": "Eng",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Tale of Princess Kaguya",
+        "language": "Eng/Jap",
+        "type": "Movie",
+        "subs": "Eng",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Miracle On 34th Street",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Santa Clause",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Grinch",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Jingle All The Way",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Better Call Saul",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Kill Bill Vol. 1",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Hateful Eight",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Kill Bill Vol. 2",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "E.T.",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Jaws",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Color Purple",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Goonies",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Schindler's List",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Back to the Future Part III",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Cowboy Bebop",
+        "language": "Eng/Jap",
+        "type": "TV",
+        "subs": "Eng",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Paddington ",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Paddington 2",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Predator",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Jurassic Park",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Sabrina ",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Monster Hunter",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Bladerunner",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Bladerunner 2049",
+        "language": " ",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Alien vs. Predator",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Regular Show",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Adventure Time",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Tenet",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Ford vs. Ferrari",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Detective Pikachu",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Sonic the Hedgehog",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Still Alice",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Big Short",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Paw Patrol",
+        "type": "TV",
+        "status": "ON DISK",
+        "notes": "Seasons 1-5"
+    },
+    {
+        "title": "Gone Girl",
+        "type": "Movie",
+        "status": "OFFLOADED"
+    },
+    {
+        "title": "Inception",
+        "type": "Movie",
+        "status": "ON DISK"
+    },
+    {
+        "title": "Watchmen",
+        "type": "TV",
+        "status": "ON DISK"
+    },
+    {
+        "title": "The Lottery (1995 with Keri Russell)",
+        "type": "Movie",
+        "status": "REQUESTED"
+    },
+    {
+        "title": "The Girl on the Train (Emily Blunt)",
+        "type": "Movie",
+        "status": "REQUESTED"
+    },
+    {
+        "title": "The Ring",
+        "type": "Movie",
+        "status": "ON DISK"
+    }
+]
