@@ -4,7 +4,14 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+import mediaList from './assets/plexdata.json'
+
+let data = {
+    media: mediaList
+}
+
 new Vue({
   router,
+  data,
   render: h => h(App)
 }).$mount('#app')
