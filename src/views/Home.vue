@@ -20,6 +20,8 @@
         <button id='submitButton' @click='submitTicket'>Submit</button>
       </div>
     </div>
+    <hr>
+    <p id='github'>https://github.com/cloudslash7/plex.jakehamzawi.net</p>
   </div>
 </template>
 
@@ -109,5 +111,9 @@ export default {
   align-self: center;
   font-size: 20px;
   margin-top: 10px;
+}
+#github {
+  margin: 10px;
+  text-align: left;
 }
 </style>
