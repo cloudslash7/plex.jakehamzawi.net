@@ -2,7 +2,7 @@
   <div id="app">
     <div id="nav">
       <a href='/'><img src='@/assets/logo.png' style='width:65px'></a>
-      <router-link class='nav-link' to='/'>Home</router-link>
+      <router-link class='nav-link' to='/'>Request</router-link>
       <router-link class='nav-link' to='/database'>Database</router-link>
     </div>
     <router-view/>

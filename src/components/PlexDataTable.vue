@@ -22,7 +22,8 @@
                     <td>{{ media.language }}</td>
                     <td>{{ media.type }}</td>
                     <td>{{ media.subs }}</td>
-                    <td>{{ media.status }}</td>
+                    <td :class='{requested: media.status === "REQUESTED"}'>{{ media.status }}</td>
+                    <td v-if='media.revokeable' class='revokeButton'><img id='trash' src='@/assets/trash.png' @click='revokeTicket(media.id)'></td>
                 </tr>
             </tbody>
         </table>
@@ -125,7 +126,7 @@ tbody:nth-child(even) {
     background-color: #1f1f1f;
 }
 #trash {
-    width: 20px;
+    width: 18px;
     cursor: pointer;
 }
 </style>
