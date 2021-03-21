@@ -1,7 +1,8 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
-import Database from '../views/Database.vue'
+import Home from '@/views/Home.vue'
+import Database from '@/views/Database.vue'
+import Confirmation from '@/views/Confirmation.vue'
 
 Vue.use(VueRouter)
 
@@ -15,6 +16,11 @@ const routes = [
     path: '/database',
     name: 'Database',
     component: Database
+  },
+  {
+    path: '/confirmation',
+    name: 'Confirmation',
+    component: Confirmation
   }
 ]
 
